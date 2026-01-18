@@ -162,7 +162,7 @@ Insurance_AI_Project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Insurance_AI_Project.git
+git clone https://github.com/Binolisha/AI-Powered-Intelligent-Insurance-Risk-Assessment-and-Customer-Insights-System.git
 cd Insurance_AI_Project
 ```
 
